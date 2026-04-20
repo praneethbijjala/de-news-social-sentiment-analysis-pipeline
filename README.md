@@ -1,1 +1,1 @@
-# de-retail-analytics
+# news-social-sentiment-analysis-pipeline
